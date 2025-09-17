@@ -32,3 +32,9 @@ Utilização do prompt acima em uma ferramenta de IA generativa.
 
 3. **Decomposição final:**
 
+142.981 = 100.000 + 40.000 + 2.000 + 900 + 80 + 1
+
+### Justificativa:
+
+Optou-se pela técnica **Step-by-Step/Chain-of-Thought**, pois a decomposição envolve raciocínio sequencial, permitindo que a IA apresente cada etapa do cálculo de forma clara e organizada.
+
